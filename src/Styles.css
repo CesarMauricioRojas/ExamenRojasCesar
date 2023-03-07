@@ -1,0 +1,24 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+}
+
+
+.boton{
+    width: 90px;
+    background-color: rgb(51, 229, 51);
+    margin-top: 10px;
+}
+
+.advertencia{
+    color: red;
+}
+
+.tarjeta{
+    border: 2px blue solid;
+    border-radius: 5%;
+    margin-top: 20px;
+    text-align: center;
+}
